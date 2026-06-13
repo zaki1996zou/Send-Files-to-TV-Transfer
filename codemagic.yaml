@@ -30,5 +30,3 @@ workflows:
           failure: true
       app_store_connect:
         auth: integration
-
-
