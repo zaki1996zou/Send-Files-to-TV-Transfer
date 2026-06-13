@@ -1,0 +1,119 @@
+PODS:
+  - applovin_max (4.6.4):
+    - AppLovinSDK (= 13.6.3)
+    - Flutter
+  - AppLovinSDK (13.6.3)
+  - connectivity_plus (0.0.1):
+    - Flutter
+  - FBAudienceNetwork (6.21.1)
+  - file_picker (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - Flutter (1.0.0)
+  - flutter_to_airplay (0.0.1):
+    - Flutter
+    - Mux-Stats-AVPlayer
+  - Google-Mobile-Ads-SDK (13.2.0):
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - google_mobile_ads (8.0.0):
+    - Flutter
+    - Google-Mobile-Ads-SDK (~> 13.2.0)
+    - webview_flutter_wkwebview
+  - GoogleUserMessagingPlatform (3.1.0)
+  - multiads (0.0.1):
+    - FBAudienceNetwork
+    - Flutter
+  - Mux-Stats-AVPlayer (4.13.0):
+    - Mux-Stats-Core (~> 5.12)
+  - Mux-Stats-Core (5.13.0)
+  - network_info_plus (0.0.1):
+    - Flutter
+  - open_filex (0.0.2):
+    - Flutter
+  - share_plus (0.0.1):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - url_launcher_ios (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - applovin_max (from `.symlinks/plugins/applovin_max/ios`)
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - file_picker (from `.symlinks/plugins/file_picker/darwin`)
+  - Flutter (from `Flutter`)
+  - flutter_to_airplay (from `.symlinks/plugins/flutter_to_airplay/ios`)
+  - google_mobile_ads (from `.symlinks/plugins/google_mobile_ads/ios`)
+  - multiads (from `.symlinks/plugins/multiads/ios`)
+  - network_info_plus (from `.symlinks/plugins/network_info_plus/ios`)
+  - open_filex (from `.symlinks/plugins/open_filex/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - AppLovinSDK
+    - FBAudienceNetwork
+    - Google-Mobile-Ads-SDK
+    - GoogleUserMessagingPlatform
+    - Mux-Stats-AVPlayer
+    - Mux-Stats-Core
+
+EXTERNAL SOURCES:
+  applovin_max:
+    :path: ".symlinks/plugins/applovin_max/ios"
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  file_picker:
+    :path: ".symlinks/plugins/file_picker/darwin"
+  Flutter:
+    :path: Flutter
+  flutter_to_airplay:
+    :path: ".symlinks/plugins/flutter_to_airplay/ios"
+  google_mobile_ads:
+    :path: ".symlinks/plugins/google_mobile_ads/ios"
+  multiads:
+    :path: ".symlinks/plugins/multiads/ios"
+  network_info_plus:
+    :path: ".symlinks/plugins/network_info_plus/ios"
+  open_filex:
+    :path: ".symlinks/plugins/open_filex/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/darwin"
+
+SPEC CHECKSUMS:
+  applovin_max: 1347613044a72cbdf006bdbb6cf607cd6f32699f
+  AppLovinSDK: f3da9503e8193d8c4badc1a9965d73a0779812fa
+  connectivity_plus: 2a701ffec2c0ae28a48cf7540e279787e77c447d
+  FBAudienceNetwork: 85d18a65c9e35bc426bd4664cf3ae2a1172d7b60
+  file_picker: e81e2d2db6261a4e98febeae383bd2173ba8b396
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  flutter_to_airplay: 3194fe6e4ca6ba1d9529c3c4194c32b9610d990f
+  Google-Mobile-Ads-SDK: f0365e190d66539c65cea8ded43e2c367abb5477
+  google_mobile_ads: 504fb83892207cb9ab7223e13ad6090e6f63d62b
+  GoogleUserMessagingPlatform: befe603da6501006420c206222acd449bba45a9c
+  multiads: 0bea523bdae11533fb284b5fdd0c4fe827c90045
+  Mux-Stats-AVPlayer: 5acd69abb8815d223b7aec9a903d692cbcf55557
+  Mux-Stats-Core: 1d9102a6dbd9ccb9f34c4ee9271355ddd7976eab
+  network_info_plus: 6613d9d7cdeb0e6f366ed4dbe4b3c51c52d567a9
+  open_filex: 6e26e659846ec990262224a12ef1c528bb4edbe4
+  share_plus: 8b6f8b3447e494cca5317c8c3073de39b3600d1f
+  shared_preferences_foundation: 5086985c1d43c5ba4d5e69a4e8083a389e2909e6
+  url_launcher_ios: bb13df5870e8c4234ca12609d04010a21be43dfa
+  webview_flutter_wkwebview: 29eb20d43355b48fe7d07113835b9128f84e3af4
+
+PODFILE CHECKSUM: d71a8f9d234bf288cee64b372c30c196c8075224
+
+COCOAPODS: 1.16.2
